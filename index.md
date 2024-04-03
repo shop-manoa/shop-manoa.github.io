@@ -14,15 +14,15 @@ WIP
 WIP
 
 ## Mock-up Ideas
-  <li><a href=#landing-page style="color: white;">Landing Page</a></li>
-  <li><a href=#user-home-page style="color: white;">User home page</a></li>
-  <li><a href=#admin-home-page style="color: white;">Admin home page</a></li>
-  <li><a href=#user-profile-page style="color: white;">User-Profile page</a></li>
-  <li><a href=#categories-page style="color: white;">Categories page</a></li>
-  <li><a href=#category-page style="color: white;">Category page</a></li>
-  <li><a href=#create-item-page style="color: white;">Create item page</a></li>
-  <li><a href=#make-offer-on-item-page style="color: white;">Make offer on item page</a></li>
-  <li><a href=#notify-admin-page style="color: white;">Notify admin page</a></li>
+  * [Landing page](#landing-page)
+  * [User home page](#user-home-page)
+  * [Admin home page](#admin-home-page)
+  * [User-Profile page](#user-profile-page)
+  * [Categories page](#categories-page)
+  * [Category page](#category-page)
+  * [Create item page](#create-item-page)
+  * [Make offer on item page](#make-offer-on-item-page) 
+  * [Notify admin page](#notify-admin-page)
 
 ### Landing page
 WIP
