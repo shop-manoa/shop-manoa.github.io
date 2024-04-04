@@ -11,7 +11,7 @@
 WIP
 
 ## Team
-Shop-Manoa is designed, implemented, and maintained by [Javin Solmirin](https://github.com/JavinSol), [Isaac Segawa](https://github.com/imths), [LaToya Gonzales](https://github.com/latoyagonzales), [Ayumu Yamagishi](https://github.com/000Aym612), [Jayrell Allen Ballesteros](https://github.com/Kyj1n), and [Xiaokang Chen](XiaoKChenEDU.github.io).
+Shop-Manoa is designed, implemented, and maintained by [Javin Solmirin](https://javinsol.github.io), [Isaac Segawa](https://imths.github.io), [LaToya Gonzales](https://latoyagonzales.github.io), [Ayumu Yamagishi](https://000Aym612.github.io000Aym612.github.io), [Jayrell Allen Ballesteros](https://Kyj1n.github.io), and [Xiaokang Chen](XiaoKChenEDU.github.io).
 
 ## Mock-up Ideas
   * [Landing page](#landing-page)
