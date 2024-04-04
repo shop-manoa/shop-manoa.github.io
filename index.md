@@ -36,31 +36,31 @@ Shop-Manoa is designed, implemented, and maintained by [Javin Solmirin](https://
   * [Notify admin page](#notify-admin-page)
 
 ### Landing page
-WIP
+The landing page is presented to users when they visit the top-level URL to the site.
 
 ### User home page
-WIP
+Once logged in, the User home page displays an overview of the user's recently viewed items and/or favorite listings, options to create new items, and display of messages/notifications about posted items.
 
 ### Admin home page
-WIP
+Once logged in, the Admin home page allows the admin to manage and moderate user accounts, items and services, and issues.
 
 ### User-Profile page
-WIP
+The User-Profile page displays user's information (username, profile picture, and bio) and posted item buy/sell with status.
 
 ### Categories page
-WIP
+The Categories page provides a list of categories of items and services for users to select from.
 
 ### Category page
-WIP
+The Category page displays the actual list of items and services of the selected category (filtered).
 
 ### Create item page
-WIP
+The Create item page is a form where users can create an item to be put up for sell.
 
 ### Make offer on item page
-WIP
+The Make offer on item page is a form where users can put in an offer on an item that they are interested in buying.
 
 ### Notify admin page
-WIP
+The Notify admin page is a form for users to report any suspicious or inappropriate activities.
 
 ## Developer Guide
 WIP
