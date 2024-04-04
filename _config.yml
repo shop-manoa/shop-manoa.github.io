@@ -2,7 +2,7 @@ title: Shop-Manoa
 description: By Javin Solmirin, Isaac Segawa, LaToya Gonzales, Yamagishi Ayumu, Jayrell Allen Ballesteros, Xiaokang Chen  <p>Final Project for ICS 314 Spring 2024<p>
 google_analytics:
 show_downloads: false
-theme: jekyll-theme-modernist
+theme: jekyll-theme-cayman
 github:
   is_project_page: true
   repository_url: https://github.com/shop-manoa/shop-manoa.github.io
