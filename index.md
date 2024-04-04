@@ -1,4 +1,5 @@
 # Shop-Manoa
+[Shop Manoa's Team Contract](https://docs.google.com/document/d/1cJpwAVo2HtDnGPQh8G5f4IqFMvtsIkIU4RTED5MFBb0/edit?usp=sharing)
 
 ## Table of contents
 * [Overview](#overview)
