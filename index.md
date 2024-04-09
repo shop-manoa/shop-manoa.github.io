@@ -35,6 +35,7 @@ Shop-Manoa is designed, implemented, and maintained by [Javin Solmirin](https://
   * [Create item page](#create-item-page)
   * [Make offer on item page](#make-offer-on-item-page) 
   * [Notify admin page](#notify-admin-page)
+  * [User report page](#user-report-page)
 
 ### Landing page
 The landing page is presented to users when they visit the top-level URL to the site.
@@ -62,6 +63,15 @@ The Make offer on item page is a form where users can put in an offer on an item
 
 ### Notify admin page
 The Notify admin page is a form for users to report any suspicious or inappropriate activities.
+
+### User report page
+- Users can report inappropriate content or users.
+- On each post or user account page, a button for reporting will be displayed.
+- Once you click the button, you are directed to the report form page.
+- What the form asks you? 
+  - What content or user you felt inappropriate.
+  - How do you categorize the content or user? (e.g. spam, scam, harassment, etc.)
+- Once you submit the form, the data is stored into the database to be checked by admin user.
 
 ## Developer Guide
 WIP
