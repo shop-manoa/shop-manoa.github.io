@@ -30,6 +30,7 @@ Shop-Manoa is designed, implemented, and maintained by [Javin Solmirin](https://
   * [User home page](#user-home-page)
   * [Admin home page](#admin-home-page)
   * [User-Profile page](#user-profile-page)
+  * [List-Profile page](#list-profile-page)
   * [Categories page](#categories-page)
   * [Category page](#category-page)
   * [Create item page](#create-item-page)
@@ -48,6 +49,15 @@ Once logged in, the Admin home page allows the admin to manage and moderate user
 
 ### User-Profile page
 The User-Profile page displays user's information (username, profile picture, and bio) and posted item buy/sell with status.
+
+### List-Profile page
+The List-Profile page displays the profiles of all registered users on Shop-Manoa. Additionally, it provides the functionality to view and rate these profiles.
+<img src="doc/list-profile.jpg">
+<img src="doc/give-rating-1.jpg">
+<img src="doc/give-rating-2.jpg">
+
+TODO: Develop a search feature that allows users to easily find other users.
+TODO: Implement a ‘View Profile’ button for each listed profile, which will direct users to the respective User-Profile Page.
 
 ### Categories page
 The Categories page provides a list of categories of items and services for users to select from.
@@ -80,6 +90,6 @@ WIP
 <h4>Milestone 1: Mock up Development</h4>
 Milestone 1 is managed using [Shop-Manoa GitHub Project Board M1](https://github.com/orgs/shop-manoa/projects/1)
 <h4>Milestone 2: Deployment</h4>
-WIP
+Milestone 2 is managed using [Shop-Manoa GitHub Project Board M2](https://github.com/orgs/shop-manoa/projects/2)
 <h4>Milestone 3: </h4>
 WIP
