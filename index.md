@@ -66,7 +66,7 @@ The Categories page provides a list of categories of items and services for user
 The Category page displays the actual list of items and services of the selected category (filtered).
 
 ### Create item page
-The Create item page is a form where users can create an item to be put up for sell.
+The Create item page is a form where users can create an item or service to be put up for sell.
 <img src="doc/create-item.png">
 
 ### Make offer on item page
