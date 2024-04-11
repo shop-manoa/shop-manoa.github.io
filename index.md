@@ -76,6 +76,10 @@ The Make offer on item page is a form where users can put in an offer on an item
 The Notify admin page is a form for users to report any suspicious or inappropriate activities.
 
 ### User report page
+
+<img src="doc/addReport.png">
+<img src="doc/listReport.png">
+
 - Users can report inappropriate content or users.
 - On each post or user account page, a button for reporting will be displayed.
 - Once you click the button, you are directed to the report form page.
