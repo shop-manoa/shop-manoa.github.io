@@ -61,11 +61,11 @@ TODO: Implement a ‘View Profile’ button for each listed profile, which will 
 
 ### Categories page
 The Categories page provides a list of categories of items and services for users to select from.
-<img src="CategoriesRough.png">
+<img src="doc/CategoriesRough.png">
 
 ### Category page
 The Category page displays the actual list of items and services of the selected category (filtered).
-<img src="CategoriesPage.png">
+<img src="doc/CategoriesPage.png">
 
 ### Create item page
 The Create item page is a form where users can create an item or service to be put up for sell.
