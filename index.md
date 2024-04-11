@@ -67,6 +67,7 @@ The Category page displays the actual list of items and services of the selected
 
 ### Create item page
 The Create item page is a form where users can create an item to be put up for sell.
+<img src="doc/create-item.png">
 
 ### Make offer on item page
 The Make offer on item page is a form where users can put in an offer on an item that they are interested in buying.
