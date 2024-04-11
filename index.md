@@ -95,7 +95,7 @@ WIP
 
 ## Development History
 <h4>Deployment</h4>
-Shop-Manoa is deployed to [Digital Ocean](https://cloud.digitalocean.com/droplets/411928794/graphs?i=224881&period=hour)
+Shop-Manoa is deployed to [Digital Ocean](http://167.172.120.50)
 <h4>Milestone 1: Mock up Development</h4>
 Milestone 1 is managed using [Shop-Manoa GitHub Project Board M1](https://github.com/orgs/shop-manoa/projects/1)
 <h4>Milestone 2: Deployment</h4>
