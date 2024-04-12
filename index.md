@@ -73,6 +73,7 @@ The Create item page is a form where users can create an item or service to be p
 
 ### Make offer on item page
 The Make offer on item page is a form where users can put in an offer on an item that they are interested in buying.
+<img src="doc/make-offer.png">
 
 ### Notify admin page
 The Notify admin page is a form for users to report any suspicious or inappropriate activities.
