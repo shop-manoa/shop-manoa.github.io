@@ -35,20 +35,24 @@ Shop-Manoa is designed, implemented, and maintained by [Javin Solmirin](https://
   * [Category page](#category-page)
   * [Create item page](#create-item-page)
   * [Make offer on item page](#make-offer-on-item-page) 
-  * [Notify admin page](#notify-admin-page)
+  <!-- * [Notify admin page](#notify-admin-page) -->
   * [User report page](#user-report-page)
 
 ### Landing page
 The landing page is presented to users when they visit the top-level URL to the site.
+<img src="doc/landing-page.jpg">
 
 ### User home page
 Once logged in, the User home page displays an overview of the user's recently viewed items and/or favorite listings, options to create new items, and display of messages/notifications about posted items.
+<img src="doc/user-home.jpg">
 
 ### Admin home page
 Once logged in, the Admin home page allows the admin to manage and moderate user accounts, items and services, and issues.
+<img src="doc/admin-home.jpg">
 
 ### User-Profile page
 The User-Profile page displays user's information (username, profile picture, and bio) and posted item buy/sell with status.
+<img src="doc/user-home.jpg">
 
 ### List-Profile page
 The List-Profile page displays the profiles of all registered users on Shop-Manoa. Additionally, it provides the functionality to view and rate these profiles.
@@ -75,8 +79,8 @@ The Create item page is a form where users can create an item or service to be p
 The Make offer on item page is a form where users can put in an offer on an item that they are interested in buying.
 <img src="doc/make-offer.png">
 
-### Notify admin page
-The Notify admin page is a form for users to report any suspicious or inappropriate activities.
+<!-- ### Notify admin page
+The Notify admin page is a form for users to report any suspicious or inappropriate activities. -->
 
 ### User report page
 
