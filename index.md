@@ -109,6 +109,7 @@ Shop-Manoa is deployed to [Digital Ocean](https://shop-manoa.com/)
 Milestone 1 is managed using [Shop-Manoa GitHub Project Board M1](https://github.com/orgs/shop-manoa/projects/1)
 <h4>Milestone 2: Deployment</h4>
 Milestone 2 is managed using [Shop-Manoa GitHub Project Board M2](https://github.com/orgs/shop-manoa/projects/2)
-![ci-shop-manoa](https://github.com/shop-manoa/shop-manoa/actions/workflows/ci.yml/badge.svg)
+
+[![ci-shop-manoa](https://github.com/shop-manoa/shop-manoa/actions/workflows/ci.yml/badge.svg)](https://github.com/shop-manoa/shop-manoa/actions/workflows/ci.yml)
 <h4>Milestone 3: </h4>
 Milestone 3 is manged using [Shop-Manoa GitHub Project Board M3](https://github.com/orgs/shop-manoa/projects/4)
