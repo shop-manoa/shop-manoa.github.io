@@ -100,7 +100,27 @@ The Notify admin page is a form for users to report any suspicious or inappropri
   - As of right now we are much more focused on getting the basics laid out for our site. Though we have much more to do when it comes down to make our site look much more "beautiful".
 
 ## Developer Guide
-WIP
+### Downloading, Installing, & Running the Project
+1. Navigate to [our GitHub repository](https://github.com/shop-manoa/shop-manoa)
+2. Clone our repository to your local machine, through GitHub Desktop or your preferred method
+3. Install Meteor
+4. Open up a terminal
+5. Navigate to the cloned project app/ directory on your machine via 'cd'
+6. Run 'meteor npm install' to install all dependencies
+7. Run 'meteor npm run start' to start up the project
+8. Open up a browser and navigate to http://localhost:3000/ (or click on the provided link in the terminal)
+
+### Modifying
+1. Use 'git checkout main' to get onto the main branch on your machine
+2. Use 'git pull' to make sure your main is up to date with the project
+3. Use 'git checkout -b issue-XX' where XX is replaced with the issue number you are working on to create a new branch from main that you can work on
+4. Make any changes needed and make sure everything still runs and passes any tests before pushing
+5. Use 'git add .' to add all changed files to git
+6. Use 'git commit -m "..."' replacing ... with a short message of what your commit is doing
+   a. Can also do this through GitHub Desktop
+7. Publish your branch through GitHub Desktop
+8. Create a new Pull Request on GitHub to check everything and manage merge conflicts
+9. Once everything is confirmed and passes, confirm merge onto main
 
 ## Development History
 <h4>Deployment</h4>
