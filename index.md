@@ -40,52 +40,47 @@ Shop-Manoa is designed, implemented, and maintained by [Javin Solmirin](https://
 
 ### Landing page
 The landing page is presented to users when they visit the top-level URL to the site.
-<img src="doc/landing-page.jpg">
+![Screenshot 2024-04-23 at 7.30.19 PM.png](doc%2FScreenshot%202024-04-23%20at%207.30.19%20PM.png)
 
 ### User home page
 Once logged in, the User home page displays an overview of the user's recently viewed items and/or favorite listings, options to create new items, and display of messages/notifications about posted items.
-<img src="doc/user-home.jpg">
+![Screenshot 2024-04-23 at 7.32.48 PM.png](doc%2FScreenshot%202024-04-23%20at%207.32.48%20PM.png)
 
 ### Admin home page
 Once logged in, the Admin home page allows the admin to manage and moderate user accounts, items and services, and issues.
-<img src="doc/admin-home.jpg">
+![Screenshot 2024-04-23 at 7.33.21 PM.png](doc%2FScreenshot%202024-04-23%20at%207.33.21%20PM.png)
 
 ### User-Profile page
 The User-Profile page displays user's information (username, profile picture, and bio) and posted item buy/sell with status.
-<img src="doc/user-home.jpg">
+![Screenshot 2024-04-23 at 7.33.57 PM.png](doc%2FScreenshot%202024-04-23%20at%207.33.57%20PM.png)
 
 ### List-Profile page
 The List-Profile page displays the profiles of all registered users on Shop-Manoa. Additionally, it provides the functionality to view and rate these profiles.
-<img src="doc/list-profile.jpg">
-<img src="doc/give-rating-1.jpg">
-<img src="doc/give-rating-2.jpg">
+![Screenshot 2024-04-23 at 7.34.20 PM.png](doc%2FScreenshot%202024-04-23%20at%207.34.20%20PM.png)
+![Screenshot 2024-04-23 at 7.34.58 PM.png](doc%2FScreenshot%202024-04-23%20at%207.34.58%20PM.png)
+![Screenshot 2024-04-23 at 7.35.21 PM.png](doc%2FScreenshot%202024-04-23%20at%207.35.21%20PM.png)
 
 TODO: Develop a search feature that allows users to easily find other users.
+
+
 TODO: Implement a ‘View Profile’ button for each listed profile, which will direct users to the respective User-Profile Page.
 
 ### Categories page
 The Categories page provides a list of categories of items and services for users to select from.
-<img src="doc/CategoriesRough.png">
-
-### Category page
-The Category page displays the actual list of items and services of the selected category (filtered).
-<img src="doc/CategoriesPage.png">
+![Screenshot 2024-04-23 at 7.36.06 PM.png](doc%2FScreenshot%202024-04-23%20at%207.36.06%20PM.png)
 
 ### Create item page
 The Create item page is a form where users can create an item or service to be put up for sell.
-<img src="doc/create-item.png">
+![Screenshot 2024-04-23 at 7.36.54 PM.png](doc%2FScreenshot%202024-04-23%20at%207.36.54%20PM.png)
 
-### Make offer on item page
-The Make offer on item page is a form where users can put in an offer on an item that they are interested in buying.
-<img src="doc/make-offer.png">
 
 <!-- ### Notify admin page
 The Notify admin page is a form for users to report any suspicious or inappropriate activities. -->
 
 ### User report page
 
-<img src="doc/addReport.png">
-<img src="doc/listReport.png">
+![Screenshot 2024-04-23 at 7.37.49 PM.png](doc%2FScreenshot%202024-04-23%20at%207.37.49%20PM.png)
+![Screenshot 2024-04-23 at 7.38.12 PM.png](doc%2FScreenshot%202024-04-23%20at%207.38.12%20PM.png)
 
 - Users can report inappropriate content or users.
 - On each post or user account page, a button for reporting will be displayed.
@@ -94,6 +89,15 @@ The Notify admin page is a form for users to report any suspicious or inappropri
   - What content or user you felt inappropriate.
   - How do you categorize the content or user? (e.g. spam, scam, harassment, etc.)
 - Once you submit the form, the data is stored into the database to be checked by admin user.
+
+## Extra TO-DOs
+
+- Implement a chat system:
+  - Instead of an "offer" system, users will be given the chance to direct message other sellers, giving users the opportunity to try and haggle to a lower price, determine how the payment style, or even ask more questions about the item/service that is being sold
+  
+
+- More appealing site:
+  - As of right now we are much more focused on getting the basics laid out for our site. Though we have much more to do when it comes down to make our site look much more "beautiful".
 
 ## Developer Guide
 WIP
