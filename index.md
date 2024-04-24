@@ -85,8 +85,8 @@ The Notify admin page is a form for users to report any suspicious or inappropri
 - Users can report inappropriate content or users.
 - On each post or user account page, a button for reporting will be displayed.
 - Once you click the button, you are directed to the report form page.
-- What the form asks you? 
-  - What content or user you felt inappropriate.
+- What does the form ask you? 
+  - What content or user you felt was inappropriate.
   - How do you categorize the content or user? (e.g. spam, scam, harassment, etc.)
 - Once you submit the form, the data is stored into the database to be checked by admin user.
 
@@ -132,4 +132,4 @@ Milestone 2 is managed using [Shop-Manoa GitHub Project Board M2](https://github
 
 [![ci-shop-manoa](https://github.com/shop-manoa/shop-manoa/actions/workflows/ci.yml/badge.svg)](https://github.com/shop-manoa/shop-manoa/actions/workflows/ci.yml)
 <h4>Milestone 3: </h4>
-Milestone 3 is manged using [Shop-Manoa GitHub Project Board M3](https://github.com/orgs/shop-manoa/projects/4)
+Milestone 3 is managed using [Shop-Manoa GitHub Project Board M3](https://github.com/orgs/shop-manoa/projects/4)
