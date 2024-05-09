@@ -62,12 +62,12 @@ The Categories page provides a list of the different categories of items and ser
 ![image.png](doc%2Fimage.png)
 
 ### Report page
-The Report page provides users the opportunity to send a report of any content or user that one deems inappropriate to the admins of Shop Manoa. The option to access the form is provided on each item listing and the user profiles displayed on the List Profile page. The form asks for: the first and last name of the user or owner being reported, the name/title of the item/user that is being reported, the type of report it is for (post/user), the category of the misconduct, and any other details that one might want to add into the report. Once submitted, admins are able to see a full list of reports on their respective home page, where they can then decide whether or not to remove an item from the Shop Manoa site.
+The Report page provides users the opportunity to send a report of any content or user that one deems inappropriate to the admins of Shop Manoa. The option to access the form is provided on each item listing and the user profiles displayed on the List Profile page. The form asks for: the first and last name of the user or owner being reported, the name/title of the item/user that is being reported, the type of report it is for (post/user), the category of the misconduct, and any other details that one might want to add into the report. Once submitted, admins are able to see a full list of reports on their respective home page, where they can then decide whether or not to remove an item from the Shop-Manoa site.
 ![Screenshot 2024-04-23 at 7.37.49 PM.png](doc%2FScreenshot%202024-04-23%20at%207.37.49%20PM.png)
 ![Screenshot 2024-04-23 at 7.38.12 PM.png](doc%2FScreenshot%202024-04-23%20at%207.38.12%20PM.png)
 
 ### Admin home page
-Once logged in, the Admin home page allows the admin to manage and moderate user accounts, items and services, and issues.
+Once logged in, the Admin home page allows admins to view another list of all the registered users of Shop-Manoa, to give them easier access to an individual's profile page. Admins are also able to see the full list of open reports that have been submitted. The report list includes all of the information submitted in the report form that was filled out, as well as the user that submitted the report.
 ![Screenshot 2024-04-23 at 7.33.21 PM.png](doc%2FScreenshot%202024-04-23%20at%207.33.21%20PM.png)
 
 ## Developer Guide
