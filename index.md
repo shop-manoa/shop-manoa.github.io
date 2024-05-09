@@ -88,6 +88,12 @@ I created a profile and edited my information, and created an item to sell on th
 Making a profile and editing: Registering and creating a profile to log in was very easy, but I couldn't edit my profile picture because of some browser problems.
 Creating an item: I was able to easily create an item on the website and then view my profile in order to delete it. It was nice that the page updated without having to refresh to get rid of my deleted items.
 
+Daniel Chong:
+I used this website to create an account/profile and upload an item to sell to other Manoa students.
+Creating a profile and editing profile: It was very easy for me to make an account; in fact, it took less than a minute! Upon creating my account, it gave me an option to edit my profile which was very helpful.
+Creating an item:
+It was a really simple process to create an item to sell on the website. The prompt was very easy to understand and follow. I decided on selling my funny dog. The website created the listing instantly, with no unnecessary delays which I am thankful for since I want to get rid of this dog ASAP. Just kidding of course. Anyways, the site was easy to use as it seemed very user-friendly.
+
 ## Developer Guide
 ### Downloading, Installing, & Running the Project
 1. Navigate to [our GitHub repository](https://github.com/shop-manoa/shop-manoa)
