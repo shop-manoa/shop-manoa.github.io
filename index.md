@@ -94,6 +94,10 @@ Creating a profile and editing profile: It was very easy for me to make an accou
 Creating an item:
 It was a really simple process to create an item to sell on the website. The prompt was very easy to understand and follow. I decided on selling my funny dog. The website created the listing instantly, with no unnecessary delays which I am thankful for since I want to get rid of this dog ASAP. Just kidding of course. Anyways, the site was easy to use as it seemed very user-friendly.
 
+Caleb Chang: I was fully able to sign up and create an account using my name and UH email, and create an item to be listed and for others to see, as well as see all of the data on the site.
+Making a profile and editing: It was easy to register and make a profile to log into the site and neat how the site supported file uploads of images for both profiles and items. Also nice how a popup appeared to edit my own profile and change my profile picture and bio.
+Creating an item: It was easy to fill out the form to create a listing and nice how there were dropdowns for categories and condition, as well as only accepting number values for price. It was cool to see the page refresh automatically when removing one of the items I put up as well.
+
 ## Developer Guide
 ### Downloading, Installing, & Running the Project
 1. Navigate to [our GitHub repository](https://github.com/shop-manoa/shop-manoa)
