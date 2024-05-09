@@ -68,7 +68,7 @@ The Report page provides users the opportunity to send a report of any content o
 
 ### Admin home page
 Once logged in, the Admin home page allows admins to view another list of all the registered users of Shop-Manoa, to give them easier access to an individual's profile page. Admins are also able to see the full list of open reports that have been submitted. The report list includes all of the information submitted in the report form that was filled out, as well as the user that submitted the report.
-![Screenshot 2024-04-23 at 7.33.21 PM.png](doc%2FScreenshot%202024-04-23%20at%207.33.21%20PM.png)
+![Screenshot 2024-05-08 at 10.22.38 PM.png](doc%2FScreenshot%202024-05-08%20at%2010.22.38%20PM.png)
 
 ## Developer Guide
 ### Downloading, Installing, & Running the Project
