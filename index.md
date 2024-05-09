@@ -5,7 +5,7 @@
 * [Overview](#overview)
 * [Features](#features)
 * [Team](#team)
-* [Mock-up Ideas](#mock-up-ideas)
+* [User Guide](#user-guide)
 * [Developer Guide](#developer-guide)
 * [Development History](#development-history)
 
@@ -25,80 +25,50 @@ Shop-Manoa allows UHM students, faculty, and staff to buy and sell student-relat
 ## Team
 Shop-Manoa is designed, implemented, and maintained by [Javin Solmirin](https://javinsol.github.io), [Isaac Segawa](https://imths.github.io), [LaToya Gonzales](https://latoyagonzales.github.io), [Ayumu Yamagishi](https://000Aym612.github.io), [Jayrell Allen Ballesteros](https://Kyj1n.github.io), and [Xiaokang Chen](https://XiaoKChenEDU.github.io).
 
-## Mock-up Ideas
+## User Guide
   * [Landing page](#landing-page)
-  * [User home page](#user-home-page)
-  * [Admin home page](#admin-home-page)
-  * [User-Profile page](#user-profile-page)
-  * [List-Profile page](#list-profile-page)
-  * [Categories page](#categories-page)
-  * [Category page](#category-page)
+  * [User Profile page](#user-profile-page)
   * [Create item page](#create-item-page)
-  * [Make offer on item page](#make-offer-on-item-page) 
-  <!-- * [Notify admin page](#notify-admin-page) -->
-  * [User report page](#user-report-page)
+  * [Items page](#items-page)
+  * [List Profile page](#list-profile-page)
+  * [Categories page](#categories-page)
+  * [Report page](#report-page)
+  * [Admin home page](#admin-home-page)
 
 ### Landing page
-The landing page is presented to users when they visit the top-level URL to the site.
+The Landing page is presented to users when they visit the top-level URL to the site, and includes a brief description of Shop Manoa, as well as featuring a random item that someone has listed on the site. Once logged in, users will have access to the pages: ["My Profile"](#user-profile-page), ["Create Item"](#create-item-page), ["Items"](#list-items-page), ["List Profile"](#list-profile-page), and ["Categories"](#categories-page). Admins will have access to an additional page, ["Admin Home"](#admin-home-page).
 ![Screenshot 2024-04-23 at 7.30.19 PM.png](doc%2FScreenshot%202024-04-23%20at%207.30.19%20PM.png)
 
-### User home page
-Once logged in, the User home page displays an overview of the user's recently viewed items and/or favorite listings, options to create new items, and display of messages/notifications about posted items.
-![Screenshot 2024-04-23 at 7.32.48 PM.png](doc%2FScreenshot%202024-04-23%20at%207.32.48%20PM.png)
-
-### Admin home page
-Once logged in, the Admin home page allows the admin to manage and moderate user accounts, items and services, and issues.
-![Screenshot 2024-04-23 at 7.33.21 PM.png](doc%2FScreenshot%202024-04-23%20at%207.33.21%20PM.png)
-
-### User-Profile page
-The User-Profile page displays user's information (username, profile picture, and bio) and posted item buy/sell with status.
+### User Profile page
+The User Profile page displays user's information (profile picture, full name, and bio) and the items that they have listed on the Shop Manoa site. Users have an option to edit their profile by changing their profile picture and bio. Users also have the option on each of their listed items to edit their description and price, as well as remove/take down their listings. Admins are able to access items through this page and are given authority to remove/take down any item that they feel is inappropriate or that has been reported by other users.
 ![Screenshot 2024-04-23 at 7.33.57 PM.png](doc%2FScreenshot%202024-04-23%20at%207.33.57%20PM.png)
 
-### List-Profile page
-The List-Profile page displays the profiles of all registered users on Shop-Manoa. Additionally, it provides the functionality to view and rate these profiles.
+### Create item page
+The Create item page is a form where users can create an item or service to be put up for sell. Required information includes a(n): title/name, image, description, category, condition, and desired price for the product being listed. The form handles file uploads in order for users to be able to upload an image of their item.
+![Screenshot 2024-04-23 at 7.36.54 PM.png](doc%2FScreenshot%202024-04-23%20at%207.36.54%20PM.png)
+
+### Items page
+The Items page displays all currently available items that any user has put up on the Shop Manoa site as a listing. Each item has the options to view a popup of an overview of the item, favorite the item, view the profile of the owner, and make a report of a posting. Favorited items stay at the top of the Items page and remain there until un-favorited or removed from the site. The view profile button attached to each item takes the user to the owner of the item's profile page, where they can see the rest of that other user's listings.
+
+### List Profile page
+The List Profile page displays the profiles of all registered users on Shop-Manoa, and gives the option to view each person's profile page. Additionally, it provides the functionality to view and rate these profiles, as well as report the user themselves. The users' overall rating is displayed as an average located directly underneath their name.
 ![Screenshot 2024-04-23 at 7.34.20 PM.png](doc%2FScreenshot%202024-04-23%20at%207.34.20%20PM.png)
 ![Screenshot 2024-04-23 at 7.34.58 PM.png](doc%2FScreenshot%202024-04-23%20at%207.34.58%20PM.png)
 ![Screenshot 2024-04-23 at 7.35.21 PM.png](doc%2FScreenshot%202024-04-23%20at%207.35.21%20PM.png)
 
-TODO: Develop a search feature that allows users to easily find other users.
-
-
-TODO: Implement a ‘View Profile’ button for each listed profile, which will direct users to the respective User-Profile Page.
-
 ### Categories page
-The Categories page provides a list of categories of items and services for users to select from.
+The Categories page provides a list of the different categories of items and services that Shop Manoa currently supports. By clicking on a specific category on the page, a user is redirected to the page corresponding with the category clicked that displays all the listings that fall under said category.
 ![CategoriesPageUpdated.png](doc%2FCategoriesPageUpdated.png)
 ![image.png](doc%2Fimage.png)
 
-### Create item page
-The Create item page is a form where users can create an item or service to be put up for sell.
-![Screenshot 2024-04-23 at 7.36.54 PM.png](doc%2FScreenshot%202024-04-23%20at%207.36.54%20PM.png)
-
-
-<!-- ### Notify admin page
-The Notify admin page is a form for users to report any suspicious or inappropriate activities. -->
-
-### User report page
-
+### Report page
+The Report page provides users the opportunity to send a report of any content or user that one deems inappropriate to the admins of Shop Manoa. The option to access the form is provided on each item listing and the user profiles displayed on the List Profile page. The form asks for: the first and last name of the user or owner being reported, the name/title of the item/user that is being reported, the type of report it is for (post/user), the category of the misconduct, and any other details that one might want to add into the report. Once submitted, admins are able to see a full list of reports on their respective home page, where they can then decide whether or not to remove an item from the Shop Manoa site.
 ![Screenshot 2024-04-23 at 7.37.49 PM.png](doc%2FScreenshot%202024-04-23%20at%207.37.49%20PM.png)
 ![Screenshot 2024-04-23 at 7.38.12 PM.png](doc%2FScreenshot%202024-04-23%20at%207.38.12%20PM.png)
 
-- Users can report inappropriate content or users.
-- On each post or user account page, a button for reporting will be displayed.
-- Once you click the button, you are directed to the report form page.
-- What does the form ask you? 
-  - What content or user you felt was inappropriate.
-  - How do you categorize the content or user? (e.g. spam, scam, harassment, etc.)
-- Once you submit the form, the data is stored into the database to be checked by admin user.
-
-## Extra TO-DOs
-
-- Implement a chat system:
-  - Instead of an "offer" system, users will be given the chance to direct message other sellers, giving users the opportunity to try and haggle to a lower price, determine how the payment style, or even ask more questions about the item/service that is being sold
-  
-
-- More appealing site:
-  - As of right now we are much more focused on getting the basics laid out for our site. Though we have much more to do when it comes down to make our site look much more "beautiful".
+### Admin home page
+Once logged in, the Admin home page allows the admin to manage and moderate user accounts, items and services, and issues.
+![Screenshot 2024-04-23 at 7.33.21 PM.png](doc%2FScreenshot%202024-04-23%20at%207.33.21%20PM.png)
 
 ## Developer Guide
 ### Downloading, Installing, & Running the Project
