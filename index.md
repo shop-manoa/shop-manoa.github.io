@@ -38,19 +38,18 @@ Shop-Manoa is designed, implemented, and maintained by [Javin Solmirin](https://
 
 ### Landing page
 The Landing page is presented to users when they visit the top-level URL to the site, and includes a brief description of Shop Manoa, as well as featuring a random item that someone has listed on the site. Once logged in, users will have access to the pages: ["My Profile"](#user-profile-page), ["Create Item"](#create-item-page), ["Items"](#list-items-page), ["List Profile"](#list-profile-page), and ["Categories"](#categories-page). Admins will have access to an additional page, ["Admin Home"](#admin-home-page).
-![Screenshot 2024-05-08 at 11.03.00 PM.png](doc%2FScreenshot%202024-05-08%20at%2011.03.00%20PM.png)
+![Screenshot 2024-04-23 at 7.30.19 PM.png](doc%2FScreenshot%202024-04-23%20at%207.30.19%20PM.png)
 
 ### User Profile page
 The User Profile page displays user's information (profile picture, full name, and bio) and the items that they have listed on the Shop Manoa site. Users have an option to edit their profile by changing their profile picture and bio. Users also have the option on each of their listed items to edit their description and price, as well as remove/take down their listings. Admins are able to access items through this page and are given authority to remove/take down any item that they feel is inappropriate or that has been reported by other users.
-![Screenshot 2024-05-08 at 11.03.37 PM.png](doc%2FScreenshot%202024-05-08%20at%2011.03.37%20PM.png)
+![Screenshot 2024-04-23 at 7.33.57 PM.png](doc%2FScreenshot%202024-04-23%20at%207.33.57%20PM.png)
 
 ### Create item page
 The Create item page is a form where users can create an item or service to be put up for sell. Required information includes a(n): title/name, image, description, category, condition, and desired price for the product being listed. The form handles file uploads in order for users to be able to upload an image of their item.
-![Screenshot 2024-05-08 at 11.03.54 PM.png](doc%2FScreenshot%202024-05-08%20at%2011.03.54%20PM.png)
+![Screenshot 2024-04-23 at 7.36.54 PM.png](doc%2FScreenshot%202024-04-23%20at%207.36.54%20PM.png)
 
 ### Items page
 The Items page displays all currently available items that any user has put up on the Shop Manoa site as a listing. Each item has the options to view a popup of an overview of the item, favorite the item, view the profile of the owner, and make a report of a posting. Favorited items stay at the top of the Items page and remain there until un-favorited or removed from the site. The view profile button attached to each item takes the user to the owner of the item's profile page, where they can see the rest of that other user's listings.
-![Screenshot 2024-05-08 at 11.04.09 PM.png](doc%2FScreenshot%202024-05-08%20at%2011.04.09%20PM.png)
 
 ### List Profile page
 The List Profile page displays the profiles of all registered users on Shop-Manoa, and gives the option to view each person's profile page. Additionally, it provides the functionality to view and rate these profiles, as well as report the user themselves. The users' overall rating is displayed as an average located directly underneath their name.
@@ -95,10 +94,6 @@ Creating a profile and editing profile: It was very easy for me to make an accou
 Creating an item:
 It was a really simple process to create an item to sell on the website. The prompt was very easy to understand and follow. I decided on selling my funny dog. The website created the listing instantly, with no unnecessary delays which I am thankful for since I want to get rid of this dog ASAP. Just kidding of course. Anyways, the site was easy to use as it seemed very user-friendly.
 
-Caleb Chang: I was fully able to sign up and create an account using my name and UH email, and create an item to be listed and for others to see, as well as see all of the data on the site.
-Making a profile and editing: It was easy to register and make a profile to log into the site and neat how the site supported file uploads of images for both profiles and items. Also nice how a popup appeared to edit my own profile and change my profile picture and bio.
-Creating an item: It was easy to fill out the form to create a listing and nice how there were dropdowns for categories and condition, as well as only accepting number values for price. It was cool to see the page refresh automatically when removing one of the items I put up as well.
-
 ## Developer Guide
 ### Downloading, Installing, & Running the Project
 1. Navigate to [our GitHub repository](https://github.com/shop-manoa/shop-manoa)
@@ -126,10 +121,10 @@ Creating an item: It was easy to fill out the form to create a listing and nice 
 <h4>Deployment</h4>
 Shop-Manoa is deployed to [Digital Ocean](https://shop-manoa.com/)
 <h4>Milestone 1: Mock up Development</h4>
-Milestone 1 was managed using [Shop-Manoa GitHub Project Board M1](https://github.com/orgs/shop-manoa/projects/1)
+Milestone 1 is managed using [Shop-Manoa GitHub Project Board M1](https://github.com/orgs/shop-manoa/projects/1)
 <h4>Milestone 2: Deployment</h4>
-Milestone 2 was managed using [Shop-Manoa GitHub Project Board M2](https://github.com/orgs/shop-manoa/projects/2)
-<h4>Milestone 3: </h4>
-Milestone 3 is managed using [Shop-Manoa GitHub Project Board M3](https://github.com/orgs/shop-manoa/projects/4)
+Milestone 2 is managed using [Shop-Manoa GitHub Project Board M2](https://github.com/orgs/shop-manoa/projects/2)
 
 [![ci-shop-manoa](https://github.com/shop-manoa/shop-manoa/actions/workflows/ci.yml/badge.svg)](https://github.com/shop-manoa/shop-manoa/actions/workflows/ci.yml)
+<h4>Milestone 3: </h4>
+Milestone 3 is managed using [Shop-Manoa GitHub Project Board M3](https://github.com/orgs/shop-manoa/projects/4)
