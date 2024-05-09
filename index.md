@@ -133,4 +133,3 @@ Milestone 2 was managed using [Shop-Manoa GitHub Project Board M2](https://githu
 Milestone 3 is managed using [Shop-Manoa GitHub Project Board M3](https://github.com/orgs/shop-manoa/projects/4)
 
 [![ci-shop-manoa](https://github.com/shop-manoa/shop-manoa/actions/workflows/ci.yml/badge.svg)](https://github.com/shop-manoa/shop-manoa/actions/workflows/ci.yml)
-<h4>Milestone 3: </h4>
