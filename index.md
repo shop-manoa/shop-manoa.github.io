@@ -6,6 +6,7 @@
 * [Features](#features)
 * [Team](#team)
 * [User Guide](#user-guide)
+* [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
 * [Development History](#development-history)
 
@@ -69,6 +70,23 @@ The Report page provides users the opportunity to send a report of any content o
 ### Admin home page
 Once logged in, the Admin home page allows admins to view another list of all the registered users of Shop-Manoa, to give them easier access to an individual's profile page. Admins are also able to see the full list of open reports that have been submitted. The report list includes all of the information submitted in the report form that was filled out, as well as the user that submitted the report.
 ![Screenshot 2024-05-08 at 10.22.38 PM.png](doc%2FScreenshot%202024-05-08%20at%2010.22.38%20PM.png)
+
+## Community Feedback
+Yuta Shimoe:
+I used making a profile, editing a profile, creating an item, and reporting functions.
+making a profile, editing a profile: I thought it was good, but I felt if it has sections to describe your major, expected graduate year, etc. That would look nicer. 
+creating an item: creating an item section is really nice, once I submit a creating item form, it shows in the Items page with brief descriptions of items. That would help me understand the info of product easily.
+reporting functions: My friend told me if I report a user, he can see the result on an administrated page, but I am not sure how that actually works since I cannot see anything from non-administrated user. But, the functions and appearance were really cool. If the name(or title) of a reported user (or post) are automatically fulfilled, that would be more cool.
+
+Aaron Kim:
+I was able to sign up and make an account using my UH email, create an item listing for others to see, and see other users' items and profiles.
+Making a profile and editing: It was functional and I was fully able to add and change everything that I would normally want to.
+Creating an item: Very functional and nice that all the pages would automatically update with all the data that we just put into the site. Every part of submitted data was able to populate their corresponding areas.
+
+Paul Ho: 
+I created a profile and edited my information, and created an item to sell on the website.
+Making a profile and editing: Registering and creating a profile to log in was very easy, but I couldn't edit my profile picture because of some browser problems.
+Creating an item: I was able to easily create an item on the website and then view my profile in order to delete it. It was nice that the page updated without having to refresh to get rid of my deleted items.
 
 ## Developer Guide
 ### Downloading, Installing, & Running the Project
