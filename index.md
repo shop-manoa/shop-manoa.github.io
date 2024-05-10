@@ -38,39 +38,36 @@ Shop-Manoa is designed, implemented, and maintained by [Javin Solmirin](https://
 
 ### Landing page
 The Landing page is presented to users when they visit the top-level URL to the site, and includes a brief description of Shop Manoa, as well as featuring a random item that someone has listed on the site. Once logged in, users will have access to the pages: ["My Profile"](#user-profile-page), ["Create Item"](#create-item-page), ["Items"](#list-items-page), ["List Profile"](#list-profile-page), and ["Categories"](#categories-page). Admins will have access to an additional page, ["Admin Home"](#admin-home-page).
-![Screenshot 2024-05-08 at 11.15.33 PM.png](doc%2FScreenshot%202024-05-08%20at%2011.15.33%20PM.png)
+<img src="doc/landing-page.jpg">
 
 ### User Profile page
 The User Profile page displays user's information (profile picture, full name, and bio) and the items that they have listed on the Shop Manoa site. Users have an option to edit their profile by changing their profile picture and bio. Users also have the option on each of their listed items to edit their description and price, as well as remove/take down their listings. Admins are able to access items through this page and are given authority to remove/take down any item that they feel is inappropriate or that has been reported by other users.
-![Screenshot 2024-05-08 at 11.15.41 PM.png](doc%2FScreenshot%202024-05-08%20at%2011.15.41%20PM.png)
+<img src="doc/user-profile.jpg">
 
 ### Create item page
 The Create item page is a form where users can create an item or service to be put up for sell. Required information includes a(n): title/name, image, description, category, condition, and desired price for the product being listed. The form handles file uploads in order for users to be able to upload an image of their item.
-![Screenshot 2024-05-08 at 11.15.48 PM.png](doc%2FScreenshot%202024-05-08%20at%2011.15.48%20PM.png)
+<img src="doc/create-item.jpg">
 
 ### Items page
 The Items page displays all currently available items that any user has put up on the Shop Manoa site as a listing. Each item has the options to view a popup of an overview of the item, favorite the item, view the profile of the owner, and make a report of a posting. Favorited items stay at the top of the Items page and remain there until un-favorited or removed from the site. The view profile button attached to each item takes the user to the owner of the item's profile page, where they can see the rest of that other user's listings.
-![Screenshot 2024-05-08 at 11.15.54 PM.png](doc%2FScreenshot%202024-05-08%20at%2011.15.54%20PM.png)
+<img src="doc/listitem.jpg">
 
 ### List Profile page
 The List Profile page displays the profiles of all registered users on Shop-Manoa, and gives the option to view each person's profile page. Additionally, it provides the functionality to view and rate these profiles, as well as report the user themselves. The users' overall rating is displayed as an average located directly underneath their name.
-![Screenshot 2024-04-23 at 7.34.20 PM.png](doc%2FScreenshot%202024-04-23%20at%207.34.20%20PM.png)
-![Screenshot 2024-04-23 at 7.34.58 PM.png](doc%2FScreenshot%202024-04-23%20at%207.34.58%20PM.png)
-![Screenshot 2024-04-23 at 7.35.21 PM.png](doc%2FScreenshot%202024-04-23%20at%207.35.21%20PM.png)
+<img src="doc/listpro-1.jpg">
+<img src="doc/listpro-2.jpg">
 
 ### Categories page
 The Categories page provides a list of the different categories of items and services that Shop Manoa currently supports. By clicking on a specific category on the page, a user is redirected to the page corresponding with the category clicked that displays all the listings that fall under said category.
-![CategoriesPageUpdated.png](doc%2FCategoriesPageUpdated.png)
-![image.png](doc%2Fimage.png)
+<img src="doc/categories.jpg">
 
 ### Report page
 The Report page provides users the opportunity to send a report of any content or user that one deems inappropriate to the admins of Shop Manoa. The option to access the form is provided on each item listing and the user profiles displayed on the List Profile page. The form asks for: the first and last name of the user or owner being reported, the name/title of the item/user that is being reported, the type of report it is for (post/user), the category of the misconduct, and any other details that one might want to add into the report. Once submitted, admins are able to see a full list of reports on their respective home page, where they can then decide whether or not to remove an item from the Shop-Manoa site.
-![Screenshot 2024-04-23 at 7.37.49 PM.png](doc%2FScreenshot%202024-04-23%20at%207.37.49%20PM.png)
-![Screenshot 2024-04-23 at 7.38.12 PM.png](doc%2FScreenshot%202024-04-23%20at%207.38.12%20PM.png)
+<img src="doc/report.jpg">
 
 ### Admin home page
 Once logged in, the Admin home page allows admins to view another list of all the registered users of Shop-Manoa, to give them easier access to an individual's profile page. Admins are also able to see the full list of open reports that have been submitted. The report list includes all of the information submitted in the report form that was filled out, as well as the user that submitted the report.
-![Screenshot 2024-05-08 at 10.22.38 PM.png](doc%2FScreenshot%202024-05-08%20at%2010.22.38%20PM.png)
+<img src="doc/admin-home.jpg">
 
 ## Community Feedback
 Yuta Shimoe:
